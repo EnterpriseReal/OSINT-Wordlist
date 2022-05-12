@@ -1,5 +1,7 @@
 #! /usr/bin/env python3
 
+# I am the coolest
+
 import argparse
 from itertools import combinations
 
